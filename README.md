@@ -59,3 +59,4 @@ As seguintes bibliotecas /pacotes precisam ser instalados antes de rodar o proje
 pip install pandas
 ```
 
+![WhatsApp Image 2021-12-28 at 14 15 08](https://user-images.githubusercontent.com/57303349/147590661-dfe11652-984a-43aa-8ac6-840f0dd3f85e.jpeg)
